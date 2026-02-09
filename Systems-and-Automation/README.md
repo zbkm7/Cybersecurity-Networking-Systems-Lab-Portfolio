@@ -19,7 +19,6 @@ This folder contains hands-on projects focused on system-level operations, autom
 
 ## Project Structure
 Each subfolder includes:
-- A short README explaining the task
 - Supporting scripts or outputs
 - Documentation demonstrating problem-solving and system understanding
 
