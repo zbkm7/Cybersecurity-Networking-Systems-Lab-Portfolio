@@ -30,3 +30,14 @@ The labs focused on capturing and analyzing live network traffic to observe how 
 - Packet capture screenshots
 - Annotated traffic analysis
 - Supporting documentation
+
+## What This Demonstrates
+
+These labs collectively demonstrate hands-on experience with network traffic analysis using Wireshark, including:
+
+- Packet capture and inspection
+- ICMP, TCP, DNS, and HTTP protocol analysis
+- Identification of suspicious and malicious traffic
+- Applying packet analysis to answer investigative questions
+
+This folder consolidates multiple academic labs into a single portfolio project.
